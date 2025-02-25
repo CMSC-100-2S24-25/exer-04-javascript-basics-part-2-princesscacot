@@ -12,7 +12,6 @@ function generateUniqueID(firstName, lastName){
     const generateUniqueAlphaNum = () => {
         return uuidv4()
     };
-    
     let uniqueAlphaNum = generateUniqueAlphaNum(); // put the generated alphanum
 
     let finalUniqueAlphaNum = uniqueAlphaNum.slice(0,8); // extract 8 alphanum only 

@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TP0ZkiLb)
+# Exercise 3: JavaScript Basics part 1
+
+**Name:** Princess Ann V. Cacot <br/>
+**Section:** C-1L <br/>
+**Student number:** 2023 - 16035 <br/>
+**Degree Program:** BS Computer Science <br/>
+
+**Description**
+-The program creates a unique ID by combining the first letter of the user's first name, their lowercase surname, and a randomly generated alphanumeric string. The addAccount function verifies that the first name, last name, email, and age are provided. All fields must be non-empty strings, and the age must be at least 18. If these conditions are met, the user's details, along with the generated ID, are appended to the users.txt file.
